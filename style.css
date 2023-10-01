@@ -4,6 +4,7 @@ body{
 
 .container{
   background-color: hsl(210, 60%, 98%);
+  width: 800px;
 }
 
 .navbar-brand{
