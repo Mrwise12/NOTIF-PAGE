@@ -1,0 +1,104 @@
+body{
+  background-color: rgb(198, 198, 198);
+}
+
+.container{
+  background-color: hsl(210, 60%, 98%);
+}
+
+.navbar-brand{
+  font-size: 38px;
+}
+.span-1{
+  background-color: hsl(219, 85%, 26%);
+  color: hsl(0, 0%, 100%);
+ font-size: 38px;
+ padding: 0 15px 0 15px;
+  border-radius: 25%;
+  margin-left: 5px;
+}
+
+.mar{
+  font-weight: normal;
+  color: hsl(220, 6%, 52%);
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: hsl(224, 21%, 14%);
+  font-weight: 700;
+}
+
+.row{
+  margin: 5px 20px 0 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.darker{
+  background-color: hsla(211, 68%, 94%, 0.488);
+  
+}
+
+.dot{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: hsl(1, 90%, 64%);
+  display: inline-block;
+}
+
+.par{
+  font-size: 1.5rem;
+}
+
+.dar:hover{
+  background-color: hsl(211, 68%, 94%);
+}
+
+.mint{
+  color: hsl(220, 6%, 52%);
+}
+
+.mar1:hover{
+  color: hsl(219, 85%, 26%);
+  font-weight: 700;
+}
+
+.tnt{
+  color: hsl(219, 12%, 42%);
+}
+.tnt:hover{
+  color: hsl(219, 85%, 26%);
+  font-weight: 700;
+}
+.tn1:hover{
+  color: hsl(219, 85%, 26%);
+  font-weight: 700;
+}
+
+.chess{
+  color: hsl(219, 85%, 26%);
+}
+
+.chess:hover{
+  cursor: pointer;
+}
+
+ @media screen and (max-width:990px){
+  img{
+    width: 40px;
+    color: hsla(211, 68%, 94%, 0.488);
+ 
+    
+  }
+
+  .row{
+    margin: auto;
+  }
+} 
+
+.tnn{
+  color: hsl(224, 21%, 14%);
+}
